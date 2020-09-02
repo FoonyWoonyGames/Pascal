@@ -1,0 +1,37 @@
+#Intro
+guiPicknick1=Pick a nickname!
+guiPicknick2=Please enter a nickname.
+guiPicknickErr1=Your nickname is too long! It cannot be over 15 characters!
+guiPicknickErr2=Your nickname cannot contain spaces!
+guiPicknickErr3=You must have a nickname!
+
+#Main Menu
+guiSingleplayer=Singleplayer
+guiMultiplayer=Multiplayer
+guiSettings=Settings
+guiQuit=Exit game
+
+#Misc
+guiBack=< Back
+
+#Pause Menu
+guiPaused=PAUSED
+guiResume=Resume
+guiOptions=Options
+guiExit=Exit to menu
+
+#Death Menu
+guiDied=You died! :(
+guiRespawn=Respawn
+
+#Singleplayer
+guiSingleplayerContinue=Continue
+guiSingleplayerNew=New
+guiSingleplayerLoad=Load
+guiSingleplayerTutorial=Tutorial
+
+#Multiplayer
+guiMultieplayerLocal=Local
+guiMultiplayerOnline=Online
+
+#Settings
